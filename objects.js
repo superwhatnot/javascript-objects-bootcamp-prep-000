@@ -4,4 +4,6 @@ the keys will be artist names and the values will
 be song titles. (What limitation does this impose
 on our playlist?)*/
 
-var playlist = {}
+var playlist = {
+  artist: 'titles'
+}
